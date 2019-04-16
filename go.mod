@@ -1,4 +1,4 @@
-module pem
+module github.com/coffee377/pem
 
 go 1.12
 
