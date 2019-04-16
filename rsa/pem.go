@@ -3,10 +3,10 @@ package rsa
 import (
 	"bytes"
 	"encoding/pem"
+	"github.com/coffee377/pem/key"
+	"github.com/coffee377/pem/util"
 	"github.com/wenzhenxi/gorsa"
 	"io/ioutil"
-	"pem/key"
-	"pem/util"
 )
 
 /*私钥加密*/

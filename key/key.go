@@ -4,8 +4,8 @@ import (
 	"crypto/rand"
 	"crypto/rsa"
 	"crypto/x509"
+	"github.com/coffee377/pem/util"
 	"os"
-	"pem/util"
 )
 
 var (
